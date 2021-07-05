@@ -5,3 +5,4 @@ for /L %%i IN (1,1,300) DO (
 	xdotool.exe key "Control_L+R"
 	timeout 60
 )
+shutdown -s -f -t 1
