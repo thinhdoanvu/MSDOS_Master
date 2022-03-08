@@ -9,5 +9,5 @@ set temp=Nhom%NhomHP%
 REM DESKTOP-K684ST9 co 14 ky tu
 mkdir %temp%
 
-xcopy /S/Q "\\10.6.11.25\Public\dthinh\BaiTap" %dd%
+xcopy /S/Q "\\10.6.11.25\Users\Public\dthinh\BaiTap" %dd%
 exit
