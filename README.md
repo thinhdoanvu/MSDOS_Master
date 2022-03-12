@@ -30,7 +30,7 @@ Stt,MSSV,Hovaten,,Ngaysinh,Lop
 2,62130176,HangHuy,Chinh,29-05-2002,62.CKDL
 3,60130217,LeThi,Ha,23-10-2000,60.QTKS-6
 
-# CONNECT TO SERVER
-Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters
-Create: AllowInsecureGuestAuth
-value: 1
+# CONNECT TO SERVER:
+1. Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters
+2. Create: AllowInsecureGuestAuth
+3. Value: 1
