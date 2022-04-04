@@ -33,4 +33,5 @@ Stt,MSSV,Hovaten,,Ngaysinh,Lop
 # CONNECT TO SERVER:
 1. Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters
 2. Create: AllowInsecureGuestAuth
-3. Value: 1
+3. Type: DWORD(32 bit)
+4. Value: 1
