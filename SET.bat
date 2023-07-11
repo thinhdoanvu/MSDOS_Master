@@ -11,5 +11,3 @@ type dele.txt
 echo Xem noi dung de chan
 type dechan.txt
 echo -------------------------------
-set /p exit=Bam phim Enter de Thoat
-exit
